@@ -6,6 +6,7 @@ Displaying Chinese Characters with TypeMesh Pro is difficult. At the same time, 
 
 ## How to use
 ![](screenshot.png)
+This is the suggested setting to generate the font.
 
 ## `ZH-CHS_JA_KO_ASCII.txt` 
 - Included the most frequent use --Simplified Chinese-- chatacters & punctuations 6500+ 常用简体中文字符与标点
