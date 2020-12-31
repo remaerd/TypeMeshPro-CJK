@@ -5,9 +5,7 @@ Displaying Chinese Characters with TypeMesh Pro is difficult. At the same time, 
 中文有 65000+ 个字。想要在 Unity 与 Type Mesh Pro 中显示中文，要显示全部中文字符是不现实的。这两个文件帮助我们生成 Type Mesh Pro 专用的字库。包含了 6500+ 常用中文字符，并嵌入了日文、韩文、ASCII Extended 的字符。帮助你们制作出可以支持跨语种 CJK 支持的手机游戏。
 
 ## How to use
-
-
-
+![](screenshot.png)
 
 ## `ZH-CHS_JA_KO_ASCII.txt` 
 - Included the most frequent use --Simplified Chinese-- chatacters & punctuations 6500+ 常用简体中文字符与标点
